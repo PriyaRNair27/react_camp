@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_camp/static/css/main.073c9b0a.css",
+    "main.js": "/react_camp/static/js/main.8fd7953a.js",
+    "static/js/787.5d5ea81f.chunk.js": "/react_camp/static/js/787.5d5ea81f.chunk.js",
+    "static/media/logo.svg": "/react_camp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react_camp/index.html",
+    "main.073c9b0a.css.map": "/react_camp/static/css/main.073c9b0a.css.map",
+    "main.8fd7953a.js.map": "/react_camp/static/js/main.8fd7953a.js.map",
+    "787.5d5ea81f.chunk.js.map": "/react_camp/static/js/787.5d5ea81f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8fd7953a.js"
+  ]
+}
